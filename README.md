@@ -1,5 +1,6 @@
 
-![](broken.gif)
+![](time.gif)
+<!--![](broken.gif)-->
 <!--![](hello-world.gif)-->
 
 <!--
