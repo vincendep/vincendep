@@ -1,4 +1,4 @@
-<!--![](hello-world.gif)-->
+![](hello-world.gif)
 <!--![](time.gif)-->
 <!--![](broken.gif)-->
-![](wave.gif)
+<!--![](wave.gif)-->
